@@ -1,0 +1,14 @@
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione15.05\esercizi#4pt4\obj\Debug\net9.0\esercizi#4pt4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione15.05\esercizi#4pt4\obj\Debug\net9.0\esercizi#4pt4.AssemblyInfoInputs.cache
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione15.05\esercizi#4pt4\obj\Debug\net9.0\esercizi#4pt4.AssemblyInfo.cs
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione15.05\esercizi#4pt4\obj\Debug\net9.0\esercizi#4pt4.csproj.CoreCompileInputs.cache
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione15.05\esercizi#4pt4\bin\Debug\net9.0\esercizi#4pt4.exe
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione15.05\esercizi#4pt4\bin\Debug\net9.0\esercizi#4pt4.deps.json
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione15.05\esercizi#4pt4\bin\Debug\net9.0\esercizi#4pt4.runtimeconfig.json
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione15.05\esercizi#4pt4\bin\Debug\net9.0\esercizi#4pt4.dll
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione15.05\esercizi#4pt4\bin\Debug\net9.0\esercizi#4pt4.pdb
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione15.05\esercizi#4pt4\obj\Debug\net9.0\esercizi#4pt4.dll
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione15.05\esercizi#4pt4\obj\Debug\net9.0\refint\esercizi#4pt4.dll
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione15.05\esercizi#4pt4\obj\Debug\net9.0\esercizi#4pt4.pdb
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione15.05\esercizi#4pt4\obj\Debug\net9.0\esercizi#4pt4.genruntimeconfig.cache
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione15.05\esercizi#4pt4\obj\Debug\net9.0\ref\esercizi#4pt4.dll
