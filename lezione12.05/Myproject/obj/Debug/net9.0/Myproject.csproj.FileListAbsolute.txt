@@ -1,0 +1,14 @@
+C:\Users\Yuliya\Desktop\C#\Myproject\bin\Debug\net9.0\Myproject.exe
+C:\Users\Yuliya\Desktop\C#\Myproject\bin\Debug\net9.0\Myproject.deps.json
+C:\Users\Yuliya\Desktop\C#\Myproject\bin\Debug\net9.0\Myproject.runtimeconfig.json
+C:\Users\Yuliya\Desktop\C#\Myproject\bin\Debug\net9.0\Myproject.dll
+C:\Users\Yuliya\Desktop\C#\Myproject\bin\Debug\net9.0\Myproject.pdb
+C:\Users\Yuliya\Desktop\C#\Myproject\obj\Debug\net9.0\Myproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yuliya\Desktop\C#\Myproject\obj\Debug\net9.0\Myproject.AssemblyInfoInputs.cache
+C:\Users\Yuliya\Desktop\C#\Myproject\obj\Debug\net9.0\Myproject.AssemblyInfo.cs
+C:\Users\Yuliya\Desktop\C#\Myproject\obj\Debug\net9.0\Myproject.csproj.CoreCompileInputs.cache
+C:\Users\Yuliya\Desktop\C#\Myproject\obj\Debug\net9.0\Myproject.dll
+C:\Users\Yuliya\Desktop\C#\Myproject\obj\Debug\net9.0\refint\Myproject.dll
+C:\Users\Yuliya\Desktop\C#\Myproject\obj\Debug\net9.0\Myproject.pdb
+C:\Users\Yuliya\Desktop\C#\Myproject\obj\Debug\net9.0\Myproject.genruntimeconfig.cache
+C:\Users\Yuliya\Desktop\C#\Myproject\obj\Debug\net9.0\ref\Myproject.dll
