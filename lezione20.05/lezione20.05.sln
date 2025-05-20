@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "spiegazione#1", "spiegazione#1\spiegazione#1.csproj", "{01B3135E-FDE6-E2C9-142B-B70BB5950E58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "spiegazione#2", "spiegazione#2\spiegazione#2.csproj", "{30AC3F15-EBA2-4153-B9EF-2F4C6BB282EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "spiegazione#3", "spiegazione#3\spiegazione#3.csproj", "{B7FE75A9-5255-4172-A01D-80705066B09A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01B3135E-FDE6-E2C9-142B-B70BB5950E58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01B3135E-FDE6-E2C9-142B-B70BB5950E58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01B3135E-FDE6-E2C9-142B-B70BB5950E58}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{01B3135E-FDE6-E2C9-142B-B70BB5950E58}.Debug|x64.Build.0 = Debug|Any CPU
+		{01B3135E-FDE6-E2C9-142B-B70BB5950E58}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{01B3135E-FDE6-E2C9-142B-B70BB5950E58}.Debug|x86.Build.0 = Debug|Any CPU
+		{01B3135E-FDE6-E2C9-142B-B70BB5950E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01B3135E-FDE6-E2C9-142B-B70BB5950E58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01B3135E-FDE6-E2C9-142B-B70BB5950E58}.Release|x64.ActiveCfg = Release|Any CPU
+		{01B3135E-FDE6-E2C9-142B-B70BB5950E58}.Release|x64.Build.0 = Release|Any CPU
+		{01B3135E-FDE6-E2C9-142B-B70BB5950E58}.Release|x86.ActiveCfg = Release|Any CPU
+		{01B3135E-FDE6-E2C9-142B-B70BB5950E58}.Release|x86.Build.0 = Release|Any CPU
+		{30AC3F15-EBA2-4153-B9EF-2F4C6BB282EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30AC3F15-EBA2-4153-B9EF-2F4C6BB282EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30AC3F15-EBA2-4153-B9EF-2F4C6BB282EE}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{30AC3F15-EBA2-4153-B9EF-2F4C6BB282EE}.Debug|x64.Build.0 = Debug|Any CPU
+		{30AC3F15-EBA2-4153-B9EF-2F4C6BB282EE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{30AC3F15-EBA2-4153-B9EF-2F4C6BB282EE}.Debug|x86.Build.0 = Debug|Any CPU
+		{30AC3F15-EBA2-4153-B9EF-2F4C6BB282EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30AC3F15-EBA2-4153-B9EF-2F4C6BB282EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30AC3F15-EBA2-4153-B9EF-2F4C6BB282EE}.Release|x64.ActiveCfg = Release|Any CPU
+		{30AC3F15-EBA2-4153-B9EF-2F4C6BB282EE}.Release|x64.Build.0 = Release|Any CPU
+		{30AC3F15-EBA2-4153-B9EF-2F4C6BB282EE}.Release|x86.ActiveCfg = Release|Any CPU
+		{30AC3F15-EBA2-4153-B9EF-2F4C6BB282EE}.Release|x86.Build.0 = Release|Any CPU
+		{B7FE75A9-5255-4172-A01D-80705066B09A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7FE75A9-5255-4172-A01D-80705066B09A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7FE75A9-5255-4172-A01D-80705066B09A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B7FE75A9-5255-4172-A01D-80705066B09A}.Debug|x64.Build.0 = Debug|Any CPU
+		{B7FE75A9-5255-4172-A01D-80705066B09A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B7FE75A9-5255-4172-A01D-80705066B09A}.Debug|x86.Build.0 = Debug|Any CPU
+		{B7FE75A9-5255-4172-A01D-80705066B09A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7FE75A9-5255-4172-A01D-80705066B09A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7FE75A9-5255-4172-A01D-80705066B09A}.Release|x64.ActiveCfg = Release|Any CPU
+		{B7FE75A9-5255-4172-A01D-80705066B09A}.Release|x64.Build.0 = Release|Any CPU
+		{B7FE75A9-5255-4172-A01D-80705066B09A}.Release|x86.ActiveCfg = Release|Any CPU
+		{B7FE75A9-5255-4172-A01D-80705066B09A}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1CC20D1-442C-48F8-9F35-2A807AD6F637}
+	EndGlobalSection
+EndGlobal

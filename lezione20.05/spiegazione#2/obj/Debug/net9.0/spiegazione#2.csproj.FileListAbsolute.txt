@@ -1,0 +1,14 @@
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione20.05\spiegazione#2\bin\Debug\net9.0\spiegazione#2.exe
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione20.05\spiegazione#2\bin\Debug\net9.0\spiegazione#2.deps.json
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione20.05\spiegazione#2\bin\Debug\net9.0\spiegazione#2.runtimeconfig.json
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione20.05\spiegazione#2\bin\Debug\net9.0\spiegazione#2.dll
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione20.05\spiegazione#2\bin\Debug\net9.0\spiegazione#2.pdb
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione20.05\spiegazione#2\obj\Debug\net9.0\spiegazione#2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione20.05\spiegazione#2\obj\Debug\net9.0\spiegazione#2.AssemblyInfoInputs.cache
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione20.05\spiegazione#2\obj\Debug\net9.0\spiegazione#2.AssemblyInfo.cs
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione20.05\spiegazione#2\obj\Debug\net9.0\spiegazione#2.csproj.CoreCompileInputs.cache
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione20.05\spiegazione#2\obj\Debug\net9.0\spiegazione#2.dll
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione20.05\spiegazione#2\obj\Debug\net9.0\refint\spiegazione#2.dll
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione20.05\spiegazione#2\obj\Debug\net9.0\spiegazione#2.pdb
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione20.05\spiegazione#2\obj\Debug\net9.0\spiegazione#2.genruntimeconfig.cache
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione20.05\spiegazione#2\obj\Debug\net9.0\ref\spiegazione#2.dll
