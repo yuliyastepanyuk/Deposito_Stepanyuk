@@ -57,7 +57,7 @@ public class Programma
     public static void Main()
     {
         bool continua = true;
-        ContoCorrente conto = new ContoCorrente(); // istanzio il conto
+     
         do
         {
             Console.WriteLine("Benvenuto! Cosa vuoi fare: 1.Creare un conto corrente\n 2.Versare denaro\n 3.Prelevare denaro\n 5.Visulizzare il numero di operazioni effettuate\n 5.Visualizzare il saldo\n 6.Uscire");
@@ -67,6 +67,8 @@ public class Programma
                 switch (scelta)
                 {
                     case 1:
+                        ContoCorrente conto = new ContoCorrente(); // creo l'oggetto conto
+                        Console.WriteLine("Conto creato!");
                         break;
                     case 2:
                         conto.Versa(0); // richiamo il metodo Versa
