@@ -23,7 +23,7 @@ public class Operatore // classe padre
         }
     }
 
-    public string Turno
+    public string Turno // stessa cosa ma per il turno
     {
         get
         {
@@ -42,7 +42,7 @@ public class Operatore // classe padre
         }
     }
 
-    public virtual void EseguiCompito()
+    public virtual void EseguiCompito() // metodo generico
     {
         Console.WriteLine("Operatore generico in servizio.");
     }
@@ -57,7 +57,7 @@ public class OperatoreEmergenza : Operatore // classe derivata
         livelloUrgenza = livellourgenza;
     }
 
-    public int livellourgenza
+    public int livellourgenza // definisco l'accesso al campo aggiuntivo
     {
         get
         {
@@ -73,12 +73,12 @@ public class OperatoreEmergenza : Operatore // classe derivata
         }
     }
 
-    public override void EseguiCompito()
+    public override void EseguiCompito() // override del metodo per personalizzarlo 
     {
         Console.WriteLine($"Gestione emergenza di livello {livelloUrgenza}.");
     }
 
-    public static OperatoreEmergenza AggiungiEmergenza()
+    public static OperatoreEmergenza AggiungiEmergenza() // metodo per creare un oggetto operatoreemergenza
     {
         Console.WriteLine("Aggiungi il nome dell'emergenza: ");
         string nome = Console.ReadLine();
@@ -105,7 +105,7 @@ public class OperatoreSicurezza : Operatore // classe derivata
         Console.WriteLine($"Sorveglianza dell'area {areaSorvegliata}");
     }
 
-      public static OperatoreSicurezza AggiungiSicurezza()
+      public static OperatoreSicurezza AggiungiSicurezza() // meotodo per creare un oggetto operatoresicurezza
     {
         Console.WriteLine("Aggiungi il nome della sicurezza: ");
         string nome = Console.ReadLine();
@@ -118,7 +118,7 @@ public class OperatoreSicurezza : Operatore // classe derivata
     }
 }
 
-public class OperatoreLogistica : Operatore
+public class OperatoreLogistica : Operatore // classe derivata
 {
     private int numeroConsegne;
 
@@ -147,7 +147,7 @@ public class OperatoreLogistica : Operatore
         Console.WriteLine($"Coordinamento di {numeroConsegne} consegne");
     }
 
-      public static OperatoreLogistica AggiungiLogistica()
+      public static OperatoreLogistica AggiungiLogistica() // metodo per creare un oggetto operatorelogistica
     {
         Console.WriteLine("Aggiungi il nome dell'emergenza: ");
         string nome = Console.ReadLine();
@@ -164,8 +164,8 @@ public class Programma
 {
     public static void Main()
     {
-        bool continua = true;
-        List<Operatore> operatori = new List<Operatore>();
+        bool continua = true; // condizione per far riapparire il menù
+        List<Operatore> operatori = new List<Operatore>(); // istanzio la list degli operatori
         do
         {
             Console.WriteLine("Benvenuto!Cosa vuoi fare?\n 1.Aggiungere un nuovo operatore.\n 2.Stampare tutti gli operatori.\n 3.Chiamare EseguiCompito sugli operatori.\n 4.Uscire");
@@ -182,20 +182,23 @@ public class Programma
                             switch (sceltaOperatore)
                             {
                                 case 1:
-                                    OperatoreEmergenza operatoreEmergenza = OperatoreEmergenza.AggiungiEmergenza();
-                                    operatori.Add(operatoreEmergenza);
+                                    OperatoreEmergenza operatoreEmergenza = OperatoreEmergenza.AggiungiEmergenza(); // richiamo il metodo corrispondente
+                                    operatori.Add(operatoreEmergenza);                                              // aiiungo alla lista
                                     Console.WriteLine("Opertore aggiunto con successo!");
                                     break;
                                 case 2:
-                                    OperatoreSicurezza operatoreSicurezza = OperatoreSicurezza.AggiungiSicurezza();
+                                    OperatoreSicurezza operatoreSicurezza = OperatoreSicurezza.AggiungiSicurezza(); // richiamo il metodo corrispondente
                                     operatori.Add(operatoreSicurezza);
                                     Console.WriteLine("Opertore aggiunto con successo!");
                                     break;
                                 case 3:
-                                    OperatoreLogistica operatoreLogistica = OperatoreLogistica.AggiungiLogistica();
+                                    OperatoreLogistica operatoreLogistica = OperatoreLogistica.AggiungiLogistica(); // richiamo il metodo corrispondente
                                     operatori.Add(operatoreLogistica);
                                     Console.WriteLine("Opertore aggiunto con successo!");
                                     break;
+                                default:
+                                    Console.WriteLine("Scelta non valida!");
+                                    break;    
                             }
                         }
                         else
@@ -204,17 +207,24 @@ public class Programma
                         }
                         break;
                     case 2:
-                        foreach (Operatore o in operatori)
+                        foreach (Operatore o in operatori) // stampo il nome degli operatori per ogni operatore nella lista
                         {
-                            Console.WriteLine($"Gli operatori sono {operatori}");
+                            Console.WriteLine($"Gli operatori sono {o.Nome}");
                         }
                         break;
                     case 3:
+                        foreach (Operatore o in operatori) // richiamo il metodo generico corrispondente per ogni tipo di oggetto
+                        {
+                            o.EseguiCompito();
+                        }
                         break;
                     case 4:
                         Console.WriteLine("Arrivederci!");
                         continua = false;
-                        break;        
+                        break;
+                    default:
+                        Console.WriteLine("Scelta non valida!");
+                        break;           
                 }
             }
             else
