@@ -105,7 +105,7 @@ public class OperatoreSicurezza : Operatore // classe derivata
         Console.WriteLine($"Sorveglianza dell'area {areaSorvegliata}");
     }
 
-      public static OperatoreSicurezza AggiungiEmergenza()
+      public static OperatoreSicurezza AggiungiSicurezza()
     {
         Console.WriteLine("Aggiungi il nome della sicurezza: ");
         string nome = Console.ReadLine();
@@ -147,7 +147,7 @@ public class OperatoreLogistica : Operatore
         Console.WriteLine($"Coordinamento di {numeroConsegne} consegne");
     }
 
-      public static OperatoreLogistica AggiungiEmergenza()
+      public static OperatoreLogistica AggiungiLogistica()
     {
         Console.WriteLine("Aggiungi il nome dell'emergenza: ");
         string nome = Console.ReadLine();
@@ -181,7 +181,21 @@ public class Programma
                         {
                             switch (sceltaOperatore)
                             {
-
+                                case 1:
+                                    OperatoreEmergenza operatoreEmergenza = OperatoreEmergenza.AggiungiEmergenza();
+                                    operatori.Add(operatoreEmergenza);
+                                    Console.WriteLine("Opertore aggiunto con successo!");
+                                    break;
+                                case 2:
+                                    OperatoreSicurezza operatoreSicurezza = OperatoreSicurezza.AggiungiSicurezza();
+                                    operatori.Add(operatoreSicurezza);
+                                    Console.WriteLine("Opertore aggiunto con successo!");
+                                    break;
+                                case 3:
+                                    OperatoreLogistica operatoreLogistica = OperatoreLogistica.AggiungiLogistica();
+                                    operatori.Add(operatoreLogistica);
+                                    Console.WriteLine("Opertore aggiunto con successo!");
+                                    break;
                             }
                         }
                         else
@@ -189,14 +203,24 @@ public class Programma
                             Console.WriteLine("Scelta non valida");
                         }
                         break;
+                    case 2:
+                        foreach (Operatore o in operatori)
+                        {
+                            Console.WriteLine($"Gli operatori sono {operatori}");
+                        }
+                        break;
+                    case 3:
+                        break;
+                    case 4:
+                        Console.WriteLine("Arrivederci!");
+                        continua = false;
+                        break;        
                 }
             }
             else
             {
                 Console.WriteLine("Insrisci una scelta valida!");
             }
-
-
         }
         while (continua);
     }
