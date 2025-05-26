@@ -119,7 +119,7 @@ public class Programma
                     break;
                 case 2:
                     Console.WriteLine("Tipi di pagamento disponibili:"); // Mostra i tipi di pagamento disponibili
-                    foreach (var pagamento in pagamenti)   // Itera attraverso la lista dei pagamenti
+                    foreach (IPagamento pagamento in pagamenti)   // Itera attraverso la lista dei pagamenti
                     {
                         pagamento.MostraMetodo(); // Chiama il metodo per mostrare il tipo di pagamento per ogni pagamento nella lista
                     }
