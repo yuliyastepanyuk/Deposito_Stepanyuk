@@ -1,0 +1,4 @@
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione27.05\spiegazione#3\obj\Debug\net9.0\spiegazione#3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione27.05\spiegazione#3\obj\Debug\net9.0\spiegazione#3.AssemblyInfoInputs.cache
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione27.05\spiegazione#3\obj\Debug\net9.0\spiegazione#3.AssemblyInfo.cs
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione27.05\spiegazione#3\obj\Debug\net9.0\spiegazione#3.csproj.CoreCompileInputs.cache
