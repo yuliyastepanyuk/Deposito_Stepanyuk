@@ -48,9 +48,9 @@ public class ConcreteCreatorSquare : ShapeCreator
     }
 }
 
-public class Programma
+public class Menu
 {
-    public static void Main()
+    public void ShowMenu()
     {
         Console.WriteLine("Scegli quale forma disegnare: 'circle' o 'square' ");
         string scelta = Console.ReadLine().ToLower();
@@ -68,5 +68,14 @@ public class Programma
         {
             Console.WriteLine("Scelta non valida!Riprova.");
         }
+    }
+}
+
+public class Programma
+{
+    public static void Main()
+    {
+        Menu menu = new Menu();
+        menu.ShowMenu();
     }
 }
