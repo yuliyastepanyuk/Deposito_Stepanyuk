@@ -1,0 +1,14 @@
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione28.05\esercizi#singleton#factoryMethod\bin\Debug\net9.0\esercizi#singleton#factoryMethod.exe
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione28.05\esercizi#singleton#factoryMethod\bin\Debug\net9.0\esercizi#singleton#factoryMethod.deps.json
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione28.05\esercizi#singleton#factoryMethod\bin\Debug\net9.0\esercizi#singleton#factoryMethod.runtimeconfig.json
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione28.05\esercizi#singleton#factoryMethod\bin\Debug\net9.0\esercizi#singleton#factoryMethod.dll
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione28.05\esercizi#singleton#factoryMethod\bin\Debug\net9.0\esercizi#singleton#factoryMethod.pdb
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione28.05\esercizi#singleton#factoryMethod\obj\Debug\net9.0\esercizi#singleton#factoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione28.05\esercizi#singleton#factoryMethod\obj\Debug\net9.0\esercizi#singleton#factoryMethod.AssemblyInfoInputs.cache
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione28.05\esercizi#singleton#factoryMethod\obj\Debug\net9.0\esercizi#singleton#factoryMethod.AssemblyInfo.cs
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione28.05\esercizi#singleton#factoryMethod\obj\Debug\net9.0\esercizi#singleton#factoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione28.05\esercizi#singleton#factoryMethod\obj\Debug\net9.0\esercizi#singleton#factoryMethod.dll
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione28.05\esercizi#singleton#factoryMethod\obj\Debug\net9.0\refint\esercizi#singleton#factoryMethod.dll
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione28.05\esercizi#singleton#factoryMethod\obj\Debug\net9.0\esercizi#singleton#factoryMethod.pdb
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione28.05\esercizi#singleton#factoryMethod\obj\Debug\net9.0\esercizi#singleton#factoryMethod.genruntimeconfig.cache
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione28.05\esercizi#singleton#factoryMethod\obj\Debug\net9.0\ref\esercizi#singleton#factoryMethod.dll

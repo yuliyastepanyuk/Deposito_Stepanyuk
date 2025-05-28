@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "esercizi#singleton#factoryMethod/1.0.0": {
+        "runtime": {
+          "esercizi#singleton#factoryMethod.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "esercizi#singleton#factoryMethod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
