@@ -1,38 +1,38 @@
 ﻿using System;
 
-public interface IShape
+public interface IShape // interfaccia 
 {
     void Draw();
 }
 
-public class ConcreteCircle : IShape
+public class ConcreteCircle : IShape // classe concreta che implementa l'interfaccia
 {
-    public void Draw()
+    public void Draw() // implemento il metodo dell'interfaccia
     {
         Console.WriteLine("Cerchio disegnato.");
     }
 }
 
-public class ConcreteSquare : IShape
+public class ConcreteSquare : IShape // classe concreta che implementa l'interfaccia
 {
-    public void Draw()
+    public void Draw() // implemento il metodo dell'interfaccia
     {
         Console.WriteLine("Quadrato disegnato");
     }
 }
 
-public abstract class ShapeCreator
+public abstract class ShapeCreator // classe astratta di tipo ShapeCreator
 {
-    public abstract IShape FactoryMethod();
+    public abstract IShape FactoryMethod(); // metodo astratto che resituisce un oggetto di tipo interfaccia
 
-    public void CreateShape(string type)
+    public void CreateShape(string type) // metodo reale che usa oggetto interfaccia per richiamare il factorymethod
     {
         IShape shape = FactoryMethod();
-        shape.Draw();
+        shape.Draw(); // richiama su shape il metodo Draw
     }
 }
 
-public class ConcreteCreatorCircle : ShapeCreator
+public class ConcreteCreatorCircle : ShapeCreator 
 {
     public override IShape FactoryMethod()
     {
@@ -48,7 +48,7 @@ public class ConcreteCreatorSquare : ShapeCreator
     }
 }
 
-public class Menu
+public class Menu // classe menu
 {
     public void ShowMenu()
     {
