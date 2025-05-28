@@ -1,0 +1,14 @@
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione28.05\esercizi#factoryMethod#2\bin\Debug\net9.0\esercizi#factoryMethod#2.exe
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione28.05\esercizi#factoryMethod#2\bin\Debug\net9.0\esercizi#factoryMethod#2.deps.json
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione28.05\esercizi#factoryMethod#2\bin\Debug\net9.0\esercizi#factoryMethod#2.runtimeconfig.json
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione28.05\esercizi#factoryMethod#2\bin\Debug\net9.0\esercizi#factoryMethod#2.dll
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione28.05\esercizi#factoryMethod#2\bin\Debug\net9.0\esercizi#factoryMethod#2.pdb
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione28.05\esercizi#factoryMethod#2\obj\Debug\net9.0\esercizi#factoryMethod#2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione28.05\esercizi#factoryMethod#2\obj\Debug\net9.0\esercizi#factoryMethod#2.AssemblyInfoInputs.cache
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione28.05\esercizi#factoryMethod#2\obj\Debug\net9.0\esercizi#factoryMethod#2.AssemblyInfo.cs
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione28.05\esercizi#factoryMethod#2\obj\Debug\net9.0\esercizi#factoryMethod#2.csproj.CoreCompileInputs.cache
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione28.05\esercizi#factoryMethod#2\obj\Debug\net9.0\esercizi#factoryMethod#2.dll
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione28.05\esercizi#factoryMethod#2\obj\Debug\net9.0\refint\esercizi#factoryMethod#2.dll
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione28.05\esercizi#factoryMethod#2\obj\Debug\net9.0\esercizi#factoryMethod#2.pdb
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione28.05\esercizi#factoryMethod#2\obj\Debug\net9.0\esercizi#factoryMethod#2.genruntimeconfig.cache
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione28.05\esercizi#factoryMethod#2\obj\Debug\net9.0\ref\esercizi#factoryMethod#2.dll
