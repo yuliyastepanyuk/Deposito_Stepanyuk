@@ -1,0 +1,14 @@
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione29.05\esercizi#Decorator#factoryMethod\bin\Debug\net9.0\esercizi#Decorator#factoryMethod.exe
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione29.05\esercizi#Decorator#factoryMethod\bin\Debug\net9.0\esercizi#Decorator#factoryMethod.deps.json
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione29.05\esercizi#Decorator#factoryMethod\bin\Debug\net9.0\esercizi#Decorator#factoryMethod.runtimeconfig.json
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione29.05\esercizi#Decorator#factoryMethod\bin\Debug\net9.0\esercizi#Decorator#factoryMethod.dll
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione29.05\esercizi#Decorator#factoryMethod\bin\Debug\net9.0\esercizi#Decorator#factoryMethod.pdb
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione29.05\esercizi#Decorator#factoryMethod\obj\Debug\net9.0\esercizi#Decorator#factoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione29.05\esercizi#Decorator#factoryMethod\obj\Debug\net9.0\esercizi#Decorator#factoryMethod.AssemblyInfoInputs.cache
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione29.05\esercizi#Decorator#factoryMethod\obj\Debug\net9.0\esercizi#Decorator#factoryMethod.AssemblyInfo.cs
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione29.05\esercizi#Decorator#factoryMethod\obj\Debug\net9.0\esercizi#Decorator#factoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione29.05\esercizi#Decorator#factoryMethod\obj\Debug\net9.0\esercizi#Decorator#factoryMethod.dll
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione29.05\esercizi#Decorator#factoryMethod\obj\Debug\net9.0\refint\esercizi#Decorator#factoryMethod.dll
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione29.05\esercizi#Decorator#factoryMethod\obj\Debug\net9.0\esercizi#Decorator#factoryMethod.pdb
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione29.05\esercizi#Decorator#factoryMethod\obj\Debug\net9.0\esercizi#Decorator#factoryMethod.genruntimeconfig.cache
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione29.05\esercizi#Decorator#factoryMethod\obj\Debug\net9.0\ref\esercizi#Decorator#factoryMethod.dll
