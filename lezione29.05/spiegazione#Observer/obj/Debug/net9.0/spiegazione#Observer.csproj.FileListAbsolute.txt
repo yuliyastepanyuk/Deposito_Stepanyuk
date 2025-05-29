@@ -1,0 +1,14 @@
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione29.05\spiegazione#Observer\bin\Debug\net9.0\spiegazione#Observer.exe
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione29.05\spiegazione#Observer\bin\Debug\net9.0\spiegazione#Observer.deps.json
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione29.05\spiegazione#Observer\bin\Debug\net9.0\spiegazione#Observer.runtimeconfig.json
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione29.05\spiegazione#Observer\bin\Debug\net9.0\spiegazione#Observer.dll
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione29.05\spiegazione#Observer\bin\Debug\net9.0\spiegazione#Observer.pdb
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione29.05\spiegazione#Observer\obj\Debug\net9.0\spiegazione#Observer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione29.05\spiegazione#Observer\obj\Debug\net9.0\spiegazione#Observer.AssemblyInfoInputs.cache
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione29.05\spiegazione#Observer\obj\Debug\net9.0\spiegazione#Observer.AssemblyInfo.cs
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione29.05\spiegazione#Observer\obj\Debug\net9.0\spiegazione#Observer.csproj.CoreCompileInputs.cache
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione29.05\spiegazione#Observer\obj\Debug\net9.0\spiegazione#Observer.dll
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione29.05\spiegazione#Observer\obj\Debug\net9.0\refint\spiegazione#Observer.dll
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione29.05\spiegazione#Observer\obj\Debug\net9.0\spiegazione#Observer.pdb
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione29.05\spiegazione#Observer\obj\Debug\net9.0\spiegazione#Observer.genruntimeconfig.cache
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione29.05\spiegazione#Observer\obj\Debug\net9.0\ref\spiegazione#Observer.dll
