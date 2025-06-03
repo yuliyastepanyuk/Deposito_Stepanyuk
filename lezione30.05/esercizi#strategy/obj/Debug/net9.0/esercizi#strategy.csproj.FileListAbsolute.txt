@@ -1,0 +1,14 @@
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione30.05\esercizi#strategy\bin\Debug\net9.0\esercizi#strategy.exe
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione30.05\esercizi#strategy\bin\Debug\net9.0\esercizi#strategy.deps.json
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione30.05\esercizi#strategy\bin\Debug\net9.0\esercizi#strategy.runtimeconfig.json
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione30.05\esercizi#strategy\bin\Debug\net9.0\esercizi#strategy.dll
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione30.05\esercizi#strategy\bin\Debug\net9.0\esercizi#strategy.pdb
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione30.05\esercizi#strategy\obj\Debug\net9.0\esercizi#strategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione30.05\esercizi#strategy\obj\Debug\net9.0\esercizi#strategy.AssemblyInfoInputs.cache
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione30.05\esercizi#strategy\obj\Debug\net9.0\esercizi#strategy.AssemblyInfo.cs
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione30.05\esercizi#strategy\obj\Debug\net9.0\esercizi#strategy.csproj.CoreCompileInputs.cache
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione30.05\esercizi#strategy\obj\Debug\net9.0\esercizi#strategy.dll
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione30.05\esercizi#strategy\obj\Debug\net9.0\refint\esercizi#strategy.dll
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione30.05\esercizi#strategy\obj\Debug\net9.0\esercizi#strategy.pdb
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione30.05\esercizi#strategy\obj\Debug\net9.0\esercizi#strategy.genruntimeconfig.cache
+C:\Users\Yuliya\Desktop\Programmazione\C#\lezione30.05\esercizi#strategy\obj\Debug\net9.0\ref\esercizi#strategy.dll
