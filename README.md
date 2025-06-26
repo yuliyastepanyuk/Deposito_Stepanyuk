@@ -101,7 +101,7 @@ Di seguito è riportata una panoramica dei moduli del corso e delle competenze s
 *   C# 
 *   .NET Framework 9.0.5
 *   Unity 6000.0.50f1
-*   MySQL
+*   MySQL Community 8.0.42
 *   MySQL Workbench
 *   VS Code
 
