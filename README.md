@@ -1,6 +1,6 @@
 # Academy C# - Repository del Corso
 
-Questo repository contiene i progetti e gli esercizi realizzati durante il corso "Academy C#", un percorso intensivo focalizzato sullo sviluppo di applicazioni in C#, dalla base fino a concetti avanzati come design pattern, interazione con database e sviluppo di videogiochi in Unity.
+Questo repository contiene i progetti e gli esercizi realizzati durante il corso "Academy C#", un percorso intensivo focalizzato sullo sviluppo di applicazioni in C#, dalla base fino a concetti avanzati come design pattern, interazione con database e sviluppo di una scena base in Unity.
 
 ## Obiettivi del Corso
 
@@ -10,7 +10,7 @@ L'obiettivo principale del corso era fornire una solida base in C# e preparare g
 *   **Programmazione Orientata agli Oggetti (OOP)**: Incapsulamento, ereditarietà, polimorfismo, astrazione.
 *   **Design Pattern**: Implementazione di pattern comuni come Singleton, Factory Method, Observer, Decorator, Strategy e Dependency Injection.
 *   **DevOps**: Introduzione ai concetti e principi fondamentali del DevOps.
-*   **Sviluppo di Videogiochi in Unity**: Creazione di giochi 2D e 3D, gestione dell'input, collisioni, UI.
+*   **Introduzione all'utilizzo di Unity**: Creazione di una scena base, gestione dell'input, collisioni, UI.
 *   **Database Management**: Progettazione e implementazione di database MySQL, query complesse.
 
 ## Contenuti del Corso e Competenze Acquisite
@@ -58,7 +58,7 @@ Di seguito è riportata una panoramica dei moduli del corso e delle competenze s
     *   Manipolazione di `transform.forward`.
     *   Creazione di interfacce utente (Canvas, Image, Text, Button, Slider, Toggle, Dropdown, InputField, ScrollView).
 *   **Competenze Acquisite:**
-    *   Sviluppo di videogiochi 2D e 3D in Unity.
+    *   Creazione scena 2D e 3D in Unity.
     *   Gestione dell'interazione tra oggetti di gioco.
     *   Creazione di interfacce utente intuitive.
     *   Utilizzo dei componenti di Unity per implementare meccaniche di gioco.
@@ -90,7 +90,7 @@ Di seguito è riportata una panoramica dei moduli del corso e delle competenze s
 
 ## Progetti Realizzati
 
-*   **[Rifugio_Animali]**: Il progetto simula un programma gestionale di un rifugio per animali: partendo dalla progettazione e creazione del database del rifugio con MySQL Workbench, fino ad arrivare allo sviluppo delle principali funzionalità attraverso la scrittura del codice in C# con Visual Studio Code. https://github.com/chimchar101/Rifugio_Animali
+*   **Rifugio_Animali**: Il progetto simula un programma gestionale di un rifugio per animali: partendo dalla progettazione e creazione del database del rifugio con MySQL Workbench, fino ad arrivare allo sviluppo delle principali funzionalità attraverso la scrittura del codice in C# con Visual Studio Code. https://github.com/chimchar101/Rifugio_Animali
 *   **Esercizi e Laboratori**: Durante il corso, ho completato numerosi esercizi e laboratori pratici su tutti gli argomenti trattati.  Alcuni esempi includono:
     *   Sistema di gestione che consente di creare un piatto usando una Factory, aggiungere ingredienti extra dinamicamente usando il Decorator Pattern e infine applicare una strategia di preparazione (es. al forno, fritto, alla griglia) usando il Strategy Pattern.
     *   Progettare e sviluppare un database per un'app di prenotazioni di viaggi.
