@@ -1,4 +1,6 @@
 # Academy C# - Repository del Corso
+[![Linguaggio](https://img.shields.io/badge/Linguaggio-C%23-green)]()
+[![Scopo](https://img.shields.io/badge/Scopo-Didattico-blue)]()
 
 Questo repository contiene i progetti e gli esercizi realizzati durante il corso "Academy C#", un percorso intensivo focalizzato sullo sviluppo di applicazioni in C#, dalla base fino a concetti avanzati come design pattern, interazione con database e sviluppo di una scena base in Unity.
 
