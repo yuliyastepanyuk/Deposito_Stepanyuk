@@ -107,8 +107,12 @@ Di seguito è riportata una panoramica dei moduli del corso e delle competenze s
 *   MySQL Workbench
 *   VS Code
 
+## Insegnanti
+- Edoardo Del Sarto (https://www.linkedin.com/in/edoardo-del-sarto-967642233/)
+- Mirko Campari (https://www.linkedin.com/in/mirko-camparidocenteit/)
+- Michael Bagnoli (https://www.linkedin.com/in/michael-bagnoli-6504b1257/)
+  
 ## Contatti
-
 [Yuliya Stepanyuk]
 [yuliyastepanyuk95@gmail.com]
 [(www.linkedin.com/in/yuliya-stepanyuk-273677207)]
