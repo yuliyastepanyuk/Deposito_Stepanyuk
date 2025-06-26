@@ -90,7 +90,7 @@ Di seguito è riportata una panoramica dei moduli del corso e delle competenze s
 
 ## Progetti Realizzati
 
-*   **Rifugio_Animali**: Il progetto simula un programma gestionale di un rifugio per animali: partendo dalla progettazione e creazione del database del rifugio con MySQL Workbench, fino ad arrivare allo sviluppo delle principali funzionalità attraverso la scrittura del codice in C# con Visual Studio Code. https://github.com/chimchar101/Rifugio_Animali
+*   **Rifugio_Animali**: Il progetto simula un programma gestionale di un rifugio per animali: partendo dalla progettazione e creazione del database del rifugio con MySQL Workbench, fino ad arrivare allo sviluppo delle principali funzionalità attraverso la scrittura del codice in C# con Visual Studio Code. [(https://github.com/chimchar101/Rifugio_Animali)]
 *   **Esercizi e Laboratori**: Durante il corso, ho completato numerosi esercizi e laboratori pratici su tutti gli argomenti trattati.  Alcuni esempi includono:
     *   Sistema di gestione che consente di creare un piatto usando una Factory, aggiungere ingredienti extra dinamicamente usando il Decorator Pattern e infine applicare una strategia di preparazione (es. al forno, fritto, alla griglia) usando il Strategy Pattern.
     *   Progettare e sviluppare un database per un'app di prenotazioni di viaggi.
@@ -109,4 +109,4 @@ Di seguito è riportata una panoramica dei moduli del corso e delle competenze s
 
 [Yuliya Stepanyuk]
 [yuliyastepanyuk95@gmail.com]
-[www.linkedin.com/in/yuliya-stepanyuk-273677207]
+[(www.linkedin.com/in/yuliya-stepanyuk-273677207)]
